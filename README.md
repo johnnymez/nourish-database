@@ -32,7 +32,7 @@ This Nourish Database System is a Food Pantry Distribution System that was made 
 
 1. **Clone or download the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/johnnymez/nourish-database.git
    cd "Final Project Database Design"
    ```
 
